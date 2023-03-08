@@ -3,7 +3,7 @@
 Autochat - Events: At Quest Completion
 /mn16 /ci2 1 /fla fourpose ha lsign Take this "{red}L{blk}" 
 
-Autochat - Events: Trial Joined
+Autochat - Events: Trial Joined	
 /p /toge /ci8 The trial is {blu}<trial1>{def}! Located in sector {red}<pos>{def}! 
 
 Chat Macro - <target>

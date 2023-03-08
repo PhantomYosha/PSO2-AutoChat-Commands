@@ -6,7 +6,7 @@ Autochat - Events: At Quest Completion
 Autochat - Events: Trial Joined	
 /p /toge /ci8 The trial is {blu}<trial1>{def}! Located in sector {red}<pos>{def}! 
 
-Chat Macro - <target>
+Chat Macro - <target> <br>
 /p /toge /ci8 Engaged with a {red}<t>{def}! Located in sector {red}<pos>{def}!
 
 Autochat - Events: Joined Party Invited To
